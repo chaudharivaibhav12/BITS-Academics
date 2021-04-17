@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Sep 29 08:20:32 2020
+[*]
+[dumpfile] "C:\Users\babbe\Desktop\BITS\4-1\Comp Arch\Labs\Lab3\2017B5A70834G_Lab3\2017B5A70834G_Lab3.vcd"
+[dumpfile_mtime] "Tue Sep 29 08:19:10 2020"
+[dumpfile_size] 189536
+[savefile] "C:\Users\babbe\Desktop\BITS\4-1\Comp Arch\Labs\Lab3\2017B5A70834G_Lab3\2017B5A70834G_Lab3.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-4.056748 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Reading_IMTestBench.
+[sst_width] 197
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@24
+Reading_IMTestBench.opcode[5:0]
+Reading_IMTestBench.funct[5:0]
+Reading_IMTestBench.clk
+Reading_IMTestBench.reset
+Reading_IMTestBench.uut.outPc[31:0]
+Reading_IMTestBench.uut.IR[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
